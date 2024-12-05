@@ -1,4 +1,4 @@
-# enhanced-nbeats-midterm
+# NBEATS*
 
 
 ## Citation
