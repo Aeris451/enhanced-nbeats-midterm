@@ -17,6 +17,8 @@ casting methods, including statistical, machine learning, and hybrid models.
  N-BEATS* achieves the lowest MAPE and RMSE, while also exhibiting the
  lowest dispersion in forecast errors.
 
+ This repository provides an implementation of the NBEATS* algorithm introduced in [https://arxiv.org/pdf/2412.02722].
+
 
 ## Electricity Price Forecasting Results
 
