@@ -6,7 +6,7 @@
 If you use this code in any context, please cite the following paper:
 
 ```
-@article{kasprzyk2024enhancednbeatsmidtermelectricity,
+@misc{kasprzyk2024enhancednbeatsmidtermelectricity,
       title={Enhanced N-BEATS for Mid-Term Electricity Demand Forecasting}, 
       author={Mateusz Kasprzyk and Paweł Pełka and Boris N. Oreshkin and Grzegorz Dudek},
       year={2024},
