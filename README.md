@@ -4,10 +4,10 @@
  mid-term electricity load forecasting (MTLF). Building on the strengths of
  the original N-BEATS architecture, which excels in handling complex time
  series data without requiring preprocessing or domain-specific knowledge,
- N-BEATS* introduces two key modifications. (1) A novel loss function
+ N-BEATS* introduces two key modifications. A novel loss function
 combining pinball loss based on MAPE with normalized MSE, the new loss
  function allows for a more balanced approach by capturing both L1 and L2
- loss terms. (2) A modified block architecture– the internal structure of the
+ loss terms. A modified block architecture– the internal structure of the
  N-BEATS blocks is adjusted by introducing a destandardization component
  to harmonize the processing of different time series, leading to more efficient
  and less complex forecasting tasks. Evaluated on real-world monthly electric
