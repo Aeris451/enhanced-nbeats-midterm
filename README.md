@@ -1,5 +1,4 @@
-# NBEATS*: Enhanced N-BEATS for Mid-Term Electricity Demand
- Forecasting
+# NBEATS*: Enhanced N-BEATS for Mid-Term Electricity Demand Forecasting
 
  We presents an enhanced N-BEATS model, N-BEATS*, for improved
  mid-term electricity load forecasting (MTLF). Building on the strengths of
