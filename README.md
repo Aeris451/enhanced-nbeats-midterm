@@ -20,8 +20,6 @@ casting methods, including statistical, machine learning, and hybrid models.
  This repository provides an implementation of the NBEATS* algorithm introduced in [https://arxiv.org/pdf/2412.02722].
 
 
-## Electricity Price Forecasting Results
-
 | Model         | MedAPE | MAPE | IQrAPE | RMSE  | MPE   |
 |---------------|--------|------|--------|-------|-------|
 | ARIMA         | 3.32   | 5.65 | 5.24   | 463   | -2.35 |
