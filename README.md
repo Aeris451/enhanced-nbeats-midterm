@@ -47,12 +47,15 @@ casting methods, including statistical, machine learning, and hybrid models.
 If you use this code in any context, please cite the following paper:
 
 ```
-@article{kasprzyk2025enhanced,
-  title={Enhanced N-BEATS for Mid-Term electricity demand forecasting},
-  author={Kasprzyk, Mateusz and Pe{\l}ka, Pawe{\l} and Oreshkin, Boris N and Dudek, Grzegorz},
-  journal={Applied Soft Computing},
-  pages={113575},
-  year={2025},
-  publisher={Elsevier}
+@article{KASPRZYK2025113575,
+title = {Enhanced N-BEATS for mid-term electricity demand forecasting},
+journal = {Applied Soft Computing},
+volume = {182},
+pages = {113575},
+year = {2025},
+issn = {1568-4946},
+doi = {https://doi.org/10.1016/j.asoc.2025.113575},
+url = {https://www.sciencedirect.com/science/article/pii/S1568494625008865},
+author = {Mateusz Kasprzyk and Paweł Pełka and Boris N. Oreshkin and Grzegorz Dudek}
 }
 ```
