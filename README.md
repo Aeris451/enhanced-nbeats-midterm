@@ -17,7 +17,7 @@ casting methods, including statistical, machine learning, and hybrid models.
  N-BEATS* achieves the lowest MAPE and RMSE, while also exhibiting the
  lowest dispersion in forecast errors.
 
- This repository provides an implementation of the NBEATS* algorithm introduced in [https://arxiv.org/pdf/2412.02722].
+ This repository provides an implementation of the NBEATS* algorithm introduced in [https://www.sciencedirect.com/science/article/pii/S1568494625008865].
 
 
 | Model | MAPE/MedAPE/IQRAPE | SMAPE/MedSAPE/IQRSAPE | RMSE | MAE | MPE |
